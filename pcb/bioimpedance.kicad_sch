@@ -8526,7 +8526,7 @@
 			)
 		)
 	)
-	(global_label "13"
+	(global_label "MOSI"
 		(shape input)
 		(at 158.75 62.23 180)
 		(fields_autoplaced yes)
@@ -8538,7 +8538,7 @@
 		)
 		(uuid "22419b1b-ed65-459e-ad0a-792a2febe825")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 153.3458 62.23 0)
+			(at 151.1686 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9736,7 +9736,7 @@
 			)
 		)
 	)
-	(global_label "12"
+	(global_label "MISO"
 		(shape input)
 		(at 158.75 59.69 180)
 		(fields_autoplaced yes)
@@ -9748,7 +9748,7 @@
 		)
 		(uuid "dc832b9e-1615-4edc-8af6-c7bb38e3f412")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 153.3458 59.69 0)
+			(at 151.1686 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
